@@ -4,6 +4,6 @@ public class PracClass1 {
 	public static void main(String[] args) {
 
 		System.out.println("Hello_class1");
-		System.out.println("Hello_class1, Branch B changes");
+		System.out.println("Hello_class1, Branch A_S2 changes");
 	}
 }
